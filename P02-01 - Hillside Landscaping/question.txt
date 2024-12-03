@@ -1,0 +1,33 @@
+P02-01-Hillside Landscaping
+
+Create a file called P02-01
+
+Design the data models below
+
+• Export the file containing the data models as a PDF file and submit
+
+P02-01a
+
+Hillside Landscaping has several landscapers. Each landscaper is assigned a unique ID and first name, last name, mobile number, email (if available), and hourly rate are recorded. Hillside has been in business for a long time and has many clients. Each client is assigned a unique id for recording purposes. For clients, first name, last name, mobile number, email (if available), and preferred day are recorded. However, some clients do not have a preferred day.
+
+Name the first tab P02-01a
+
+Draw the entities
+
+Include attributes for each entity and identify them as mandatory or optional Identify the UID/PK for each entity
+
+Specify all other candidate keys as unique keys (UKs)
+
+P02-01b
+
+Each landscaper is assigned clients. However, when they first start, a landscaper is not assigned any clients while they are training. Each client is asked if they have a preferred landscaper. If they have no preference, a landscaper is assigned to them that becomes their preferred land- scaper. Of course, they can switch their preferred landscaper at any time.
+
+Name the tab P02-01b
+
+Include relationships and ER language
+
+P02-01c
+
+It has been determined that some clients do not want a preferred landscaper and are willing to have whoever is available during for their appointment. As a result, if a client prefers a specific landscaper, it is recorded. Otherwise, a client is not assigned to a landscaper.
+
+Name the tab P02-01c Modify the previous data model
