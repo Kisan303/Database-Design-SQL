@@ -1,0 +1,45 @@
+P02-03-Premium Sports Events
+
+Create a file called P02-03
+
+Design the ER diagrams described below
+
+Export the file containing the ER diagrams as a PDF file and submit
+
+P02-03a
+
+Premium Sports Events hosts several events throughout the year for athletes in the Bay area and want to maintain a database for these events. Each event is assigned a unique id and they record the event name, description, date, and entry cost. Events are held at different venues such as running tracks, pools, curling clubs, golf courses and so on. Each venue is assigned an id and they store contact person, phone number, email address, and rental fee. They also keep track of potential sponsors for events. Each sponsor is assigned a unique id. In addition, they store the sponsor's name, contact name, mobile number, and email address.
+
+Create a tab called P02-03a
+
+ER Diagrams using IE Notation 47
+
+Identify and draw the entities
+
+Include attributes for each entity and identify them as mandatory or optional
+You sent
+• Specify the UID/PK for each entity • Specify all other candidate keys as unique keys (UKs)
+
+P02-03b
+
+They want to maintain a record of events and the venues that hosts the events. There are times when a particular venue is not scheduled to host any events. Likewise, they want to maintain a record of all possible sponsors. As a result, there are times when a sponsor is not supporting any events. The hosting venue is always assigned when an event is scheduled. Each event is hosted at only one venue, but each venue can host multiple events. Usually, each event is supported by a sponsor, but some events do not have a sponsor. Each sponsor may support multiple events.
+
+Create a tab called P02-03b
+
+• Copy the ER diagram from P02-03A and add the relationship lines, including
+
+tionship names, and the ER language for the relationships
+
+P02-03c
+
+relationship er daigram
+
+Some events are now being scheduled several years in advance and may not have an assigned
+
+venue when scheduled. Due to the cost of running an event, it has been decided that an event will not be scheduled until a sponsor has agreed to support the event.
+
+Create a tab called P02-03c
+
+Copy the ER diagram from P02-03b and modify the ER diagram to reflect the new business rules
+
+Include ER language

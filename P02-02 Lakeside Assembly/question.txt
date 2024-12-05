@@ -1,0 +1,39 @@
+P02-02 - Lakeside Assembly Inc.
+
+Create a file called P02-02
+
+Design the ER diagrams described below
+
+• Export the file containing both data models as a PDF file and submit
+
+P02-02a
+
+46 Chapter 2
+
+Lakeside Assembly Inc. sells products assembled from parts purchased from various vendors. For each vendor, vendor id, company name, and contact person are stored. Some vendors do not assign a contact person. For parts, part id, part description, and part cost are stored. For products, product id, product name, and selling price are stored.
+
+Name the first tab P02-02a
+
+Identify and draw the entities
+
+Include attributes for each entity and identify them as mandatory or optional Specify the UID/PK for each entity
+
+Specify all other candidate keys as unique keys (UKs)
+You sent
+P02-02b
+
+Each part is purchased from one specific vendor. Of course, each vendor may supply several parts. Usually, but not always, a vendor relationship is established before any parts are pur- chased. Each product is assembled from one or more parts. Each part is unique and is used in the assembly of one specific product. Modify the ERD and include the ERD language.
+
+Name the second tab P02-026 Enhance the ER diagram
+
+Include relationships and ER language
+
+P02-02c
+
+Sometimes, a product is discontinued. In this case, any parts used in the assembly of the dis- continued product are keep in inventory for future use. As such, they are not used in the
+
+assembly of any current products. . Name the third tab P02-02c
+
+Enhance the ER diagram
+
+Include relationships and ER language
